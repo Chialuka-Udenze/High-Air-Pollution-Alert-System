@@ -44,5 +44,7 @@ The project will focus on creating intuitive visualizations, ensuring data accur
 - Highlighted the count of Lung Cancer (Categorized by Stage 1 to 4) across different provinces in Canada 
 - Showed the % usage of digital marketing across healthcare, education and real estate sectors to show the most effective channel to communicate with local residents against the chances of getting Lung cancer if they reside in areas with high percentage of air-based carcinogens
 
-
+## Summary Insight and Business proposal
+- Stage 4 Lung cancer is typically the highest across all Provinces in Canada
+- 
 
