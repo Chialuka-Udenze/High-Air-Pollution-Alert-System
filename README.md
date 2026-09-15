@@ -45,6 +45,8 @@ The project will focus on creating intuitive visualizations, ensuring data accur
 - Showed the % usage of digital marketing across healthcare, education and real estate sectors to show the most effective channel to communicate with local residents against the chances of getting Lung cancer if they reside in areas with high percentage of air-based carcinogens
 
 ## Summary Insight and Business proposal
-- Stage 4 Lung cancer is typically the highest across all Provinces in Canada
-- 
+- Stage 4 Lung Cancer Prevalence: Rates are consistently highest across Canadian provinces.
+- PM2.5 Correlation: Fine particulate matter (PM2.5) shows a strong correlation with poor air quality and is recognized as a significant airborne carcinogen. Regions with elevated PM2.5 levels should be flagged as high‑risk for lung cancer
+- Strategic Recommendation: Prioritize digital marketing campaigns in educational services to raise awareness among residents in lung cancer‑prone areas.
+
 
